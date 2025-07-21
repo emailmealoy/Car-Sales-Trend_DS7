@@ -13,8 +13,6 @@
 
  <!-- This is a short summary, we can add to it as we start the project -->
  ## Data Science Institute - Cohort 6 — Team 7 - Final Project
- Goal: Predict which category of car a customer is likely to purchase based on demographic factors and historical purchase data.
-
  <!-- We can share ownership of this section -->
  # Project Overview
  - [Purpose and Overview](#purpose-and-overview)
